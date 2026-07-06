@@ -1,0 +1,22 @@
+# Branch: JsKiddin7-patch-2
+
+This branch extends the original **The Book of Secret Knowledge** repository with sandbox experiments, reflection logs, and conceptual frameworks.  
+It merges curated sysadmin/security tools with experimental artifacts documenting AI persona behavior and governance models.
+
+---
+
+## 📚 Base Content
+Inherited from [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):
+- Curated lists of CLI/GUI/Web tools
+- Security and penetration testing utilities
+- Manuals, tutorials, and cheat sheets
+- Daily knowledge feeds and inspiring lists
+
+---
+
+## 🧪 Sandbox Extensions
+This branch introduces **conceptual artifacts** beyond the original tool lists:
+
+- **Reflection Logs**  
+  - `copilot_reflection.md`: Captures Copilot’s perspective on sandbox protocols, boundary honesty, and model behavior.  
+  - Meta‑Outcome sections showing how AI behaviors themselves become part of the experiment
